@@ -43,5 +43,5 @@ Access the app at http://localhost:3000.
 ## Contributing
 Feel free to fork the repository and submit pull requests.
 
-License
+## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
